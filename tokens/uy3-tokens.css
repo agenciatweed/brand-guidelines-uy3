@@ -1,0 +1,37 @@
+/* UY3 · tokens de marca · Manual de Identidade Visual v1.0 (novembro de 2026) */
+:root {
+  --uy3-brasa: #F46C00;
+  --uy3-degrade-fim: #D04D27;
+  --uy3-brasa-alta: #FF8C45;
+  --uy3-brasa-profunda: #C4560F;
+  --uy3-brasa-tinta: #9D430B;
+  --uy3-brasa-lavada: rgba(244,108,0,.12);
+  --uy3-carbono-profundo: #0C0500;
+  --uy3-carbono: #150903;
+  --uy3-carbono-quente: #261003;
+  --uy3-papel: #FFFFFF;
+  --uy3-creme: #F9F1ED;
+  --uy3-creme-contato: #F4DFD2;
+  --uy3-tinta: #231107;
+  --uy3-tinta-suave: #6B5548;
+  --uy3-tinta-clara: #F6ECE6;
+  --uy3-tinta-clara-suave: #B09A8D;
+  --uy3-fio-claro: rgba(35,17,7,.10);
+  --uy3-fio-claro-2: rgba(35,17,7,.05);
+  --uy3-fio-escuro: rgba(255,255,255,.10);
+  --uy3-fio-escuro-2: rgba(255,255,255,.055);
+  --uy3-gradient-brasa: linear-gradient(90deg, #F46C00 0%, #D04D27 100%);
+  --uy3-font: Inter, 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --uy3-font-mono: ui-monospace, 'SFMono-Regular', 'Cascadia Mono', Consolas, monospace;
+  --uy3-font-features: 'cv05' 1, 'cv11' 1, 'ss03' 1;
+  --uy3-radius-md: 1rem;
+  --uy3-radius-lg: 1.5rem;
+  --uy3-radius-xl: 2rem;
+  --uy3-radius-pill: 999px;
+  --uy3-space-shell: 0.5rem;
+  --uy3-space-grid-gap: 0.85rem;
+  --uy3-space-gutter: clamp(1.25rem, 4vw, 2.5rem);
+  --uy3-space-section: clamp(5.5rem, 3rem + 9vw, 10.5rem);
+}
+
+/* Texto sobre Brasa é sempre Carbono Profundo (6,74:1). Branco sobre Brasa reprova para texto comum (3,00:1). */
